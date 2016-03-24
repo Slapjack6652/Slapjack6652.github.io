@@ -1,0 +1,40 @@
+
+<html>
+  <body>
+<div class="header">
+  <a href="\"><img src="Screenshot.1.png" /></a>
+  <h1>The Gaming Squad</h1>
+  <ul class="nav">
+      <li><a href="index.html">SoCal Property Managment</a></a></li>
+      <li><a href="Sales"> </a></li>
+
+  </ul>
+</div>
+<h1> </a>
+
+
+</body></a>
+<style>
+.header img {
+    float: center;
+    width: 500px;
+    height: 300px;
+  }
+  .header h1 {
+  font-family: sans-serif;
+  float: left; 
+  margin-left: 10px;
+  width: 640px;
+}
+.nav ul {
+    clear: both;  
+  }
+  .nav li {
+   list-style-type: none;
+   display: inline;
+   padding-left: 5px;
+   }
+   </style>
+<a href="/website/SlapJack/games.html">
+
+
